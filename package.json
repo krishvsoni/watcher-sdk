@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@permaweb/aoconnect": "^0.0.59"
+    "@permaweb/aoconnect": "^0.0.59",
+    "aonote": "^0.8.3"
   }
 }
